@@ -72,8 +72,6 @@
 &kp Z  &kp X  &kp C  &kp V  &kp B  &kp COLON      &kp N      &kp N  &kp M  &kp COMMA  &kp DOT  &kp SLASH
 &kp I  &kp G  &kp V  &kp I  &kp F  &kp C          &kp B      &kp E                             &kp L
             >;
-
-            sensor-bindings = <&inc_dec_kp PG_UP PAGE_DOWN>;
         };
 
         FUNCTION {
